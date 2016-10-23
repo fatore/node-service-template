@@ -1,1 +1,1 @@
-# node-typescript-template
+# node-service-template
