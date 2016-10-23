@@ -1,1 +1,1 @@
-# REPLACE-NAME
+# node-typescript-template
